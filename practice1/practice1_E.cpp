@@ -1,8 +1,3 @@
-/*
-	I don't know but can't you just brute force this problem?
-	The constrains are not that big.
-*/
-
 #include<bits/stdc++.h>
 using namespace std;
 
